@@ -4,9 +4,7 @@ Este repositório consiste na resolução do primeiro desafio (classificador de 
 
 ---
 
-**Resolução : Para este desafio encontrei 2 resoluções possíveis que estão separadas por pastas**
-
-[![dio](https://img.shields.io/badge/Meu_Perfil_na_DIO-000?style=for-the-badge&logo=)](https://www.facebook.com/SEUUSERNAME/)
+[![Resulucao](https://img.shields.io/badge/Resoulcao_1-87CEEB?style=for-the-badge&logo=)](https://www.facebook.com/SEUUSERNAME/)
 
 
 
