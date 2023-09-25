@@ -4,7 +4,7 @@ Este repositório consiste na resolução do primeiro desafio (classificador de 
 
 ---
 
-[![Resulucao](https://img.shields.io/badge/Resoulcao_1-87CEEB?style=for-the-badge&logo=)](https://www.facebook.com/SEUUSERNAME/)
+[![Resulucao](https://img.shields.io/badge/Resoulcao_1-87CEEB?style=for-the-badge&logo=)](https://github.com/Junincss/Dio-Desafio-Logica-1/blob/main/Resolucao%201.js)
 
 
 
