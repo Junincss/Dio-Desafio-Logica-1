@@ -8,8 +8,6 @@ Este repositório consiste na resolução do primeiro desafio (classificador de 
 
 
 
-**Resolução 2**
-
 ---
 
 **O Que deve ser utilizado**
