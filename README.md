@@ -6,7 +6,8 @@ Este repositório consiste na resolução do primeiro desafio (classificador de 
 
 **Resolução : Para este desafio encontrei 2 resoluções possíveis que estão separadas por pastas**
 
-[[!Resolução](https://img.shields.io/badge/Resolucao1-#87CEEB?style=for-the-badge&logo=)](https://github.com/Junincss/Dio-Desafio-Logica-1/blob/main/Resolucao%201.js)
+[![dio](https://img.shields.io/badge/Meu_Perfil_na_DIO-000?style=for-the-badge&logo=)](https://www.facebook.com/SEUUSERNAME/)
+
 
 
 **Resolução 2**
